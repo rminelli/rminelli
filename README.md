@@ -1,6 +1,8 @@
 ### Software Engineer 
 🖖🏻 | Coding for humans 
+
 💻 | i² Keep it real 
+
 <center>
 <table>
   <tr>

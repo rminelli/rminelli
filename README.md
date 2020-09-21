@@ -2,12 +2,12 @@
 <center>
 <table>
   <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelgarciajr84&hide=html&layout=compact&theme=monokai" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=joelgarciajr84&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rminelli&hide=html&layout=compact&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rminelli&theme=monokai" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joelgarciajr84&repo=grapqhl-nodejs-mysql&theme=monokai" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=joelgarciajr84&repo=nestjs-task-management&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=grapqhl-nodejs-mysql&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=nestjs-task-management&theme=monokai" /></td>
   </tr>  
 </table>
 </center>

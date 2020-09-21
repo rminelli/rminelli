@@ -6,8 +6,8 @@
       <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=rminelli&theme=monokai" /></td>
   </tr>  
     <tr>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=grapqhl-nodejs-mysql&theme=monokai" /></td>
-      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=nestjs-task-management&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=einstein.kb&theme=monokai" /></td>
+      <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=rminelli&repo=cube.js&theme=monokai" /></td>
   </tr>  
 </table>
 </center>
